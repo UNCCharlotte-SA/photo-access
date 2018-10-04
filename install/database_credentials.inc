@@ -1,0 +1,16 @@
+<?php
+$DATABASE_HOST = 'localhost';
+$DATABASE_USER = 'photo_user';
+$DATABASE_PASS = 'photoAccess4SA';
+$DATABASE_DB = 'photo_access';
+$DATABASE_PASSWORD_FUNCTION = "SHA1";
+$DATABASE_NAME = 'photo_access';
+$DATABASE_CHARSET = 'utf8';
+$NUMBER_PER_PAGE = 20;
+$TIME_ZONE = 'America/New_York';
+$DATE_FORMAT = 'm/d/Y';
+$TIME_FORMAT = 'h:i:s A';
+$SESSION_SECURITY = 'w2Gn8PGshNx96gHRzy5E';
+$SESSION_TIMEOUT = 14400; // Total is 4 hours
+$Holidays = "4/15/2014,1/1/2014,1/20/2014,7/4/2014,9/1/2014,11/27/2014,11/28/2014,12/24/2014,12/25/2014,12/26/2014,12/29/2014,12/30/1014,12/31/2014"
+?>

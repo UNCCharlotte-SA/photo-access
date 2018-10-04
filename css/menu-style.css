@@ -1,0 +1,142 @@
+ul#css3menu ul {
+	display:none;
+	position:absolute;
+	left:-1px;
+	top:98%;
+	-moz-box-shadow:3.5px 4px 5px #000000;
+	-webkit-box-shadow:3.5px 4px 5px #000000;
+	box-shadow:3.5px 4px 5px #000000;
+	padding:0;
+}
+ul#css3menu li:hover>* {
+	display:block;
+}
+ul#css3menu li:hover {
+	position:relative;
+}
+ul#css3menu ul ul {
+	position:absolute;
+	left:98%;
+	top:-2px;
+}
+ul#css3menu {
+	display:block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-left:0px;
+	max-width:80%;
+	min-width:100%;
+	position:absolute;
+	z-index:1000;
+	left:0px;
+	top:0px;
+	background:#C2AC3E;  /*#F3901D; Bach Nguyen - 07/24/2014 */
+}
+ul#css3menu li {
+	display:block;
+	white-space:nowrap;
+	font-size:0;
+	float:left;
+}
+ul#css3menu>li,ul#css3menu li {
+	margin:0;
+}
+ul#css3menu a:active, ul#css3menu a:focus {
+	outline-style:none;
+}
+ul#css3menu a {
+	display:block;
+	vertical-align:middle;
+	background-color:#C2AC3E; /*#F3901D; Bach Nguyen - 07/24/2014 */
+	background-position:0 0;
+	text-align:left;
+	text-decoration:none;
+	padding:5px;
+	font:bold 12px Arial, Helvetica, sans-serif;
+	padding-left:10px;
+	padding-right:20px;
+	color:#000000; /*#FFFFFF; Bach Nguyen - 07/24/2014 */
+	cursor:pointer;
+}
+ul#css3menu ul li {
+	float:none;
+}
+ul#css3menu ul a {
+	text-align:left;
+}
+ul#css3menu li:hover>a {
+	background-color:#F4E9AB; /*#f8ac00; Bach Nguyen - 07/24/2014 */
+	border-color:#C0C0C0;
+	font:bold 12px Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-decoration:none;
+	background-position:0 100%;
+}
+ul#css3menu img {
+	border:none;
+	vertical-align:middle;
+	margin-right:20px;
+	width:16px;
+	height:16px;
+}
+ul#css3menu ul img {
+	width:16px;
+	height:16px;
+}
+ul#css3menu img.over {
+	display:none;
+}
+ul#css3menu li:hover > a img.def {
+	display:none;
+}
+ul#css3menu li:hover > a img.over {
+	display:inline;
+}
+ul#css3menu span {
+	display:block;
+	overflow:visible;
+	background-position:right center;
+	background-repeat:no-repeat;
+	padding-right:0px;
+}
+ul#css3menu ul span {
+	background-image:url("arrowsub.png");
+	padding-right:28px;
+}
+ul#css3menu li.topfirst>a {
+	border-radius:5px 0 0 5px;
+	-moz-border-radius:5px 0 0 5px;
+	-webkit-border-radius:5px 0 0 5px;
+}
+ul#css3menu li.toplast>a {
+	border-radius:0 5px 5px 0;
+	-moz-border-radius:0 5px 5px 0;
+	-webkit-border-radius:0 5px 5px 0;
+}
+ul#css3menu .submenu>li {
+	margin:10px 0 0;
+}
+ul#css3menu .submenu {
+	background-color:#F4E9AB; /*#FFFFFF; Bach Nguyen - 07/24/2014 */
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-color:#d4d4d4;
+	padding:0 5px 5px;
+}
+ul#css3menu li.subitem>a {
+	background-color:#F4E9AB; /*#FFFFFF; Bach Nguyen - 07/24/2014 */
+	background-image:none;
+	border-width:0;
+	padding:0px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-decoration:none;}
+ul#css3menu li.subitem:hover>a {
+	background-color:#F4E9AB; /*#FFFFFF; Bach Nguyen - 07/24/2014 */
+	background-image:none;
+	font:'12px bold Arial, Helvetica, sans-serif';
+	color:#000000; /*#868686;  Bach Nguyen - 07/24/2014 */
+	font-weight:bold; /* Bach Nguyen - 07/24/2014 */
+	text-decoration:none;
+}

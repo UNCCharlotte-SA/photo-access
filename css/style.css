@@ -1,0 +1,260 @@
+a:link {color:#063;}      /* unvisited link */
+a:visited {color:#063;}  /* visited link */
+a:hover {color:#063;}  /* mouse over link */
+a:active {color:#063;}  /* selected link */
+
+div#page-container {
+	/* background: url("./../images/background-header.jpg") repeat-x scroll center top #FFFFFF; */
+	background: url("./../images/header-logo-watermark.png") repeat-x scroll center top #FFFFFF;
+	font-size: 100%;
+	font-family: arial,helvetica,sans-serif;
+}
+
+div#header-container {
+	width: 80%; /* 950px; */
+	min-width: 0.5em;
+	margin: auto;
+	/* background-color:blue; */
+}
+
+div#header {
+	height: 100px;
+    margin-bottom: 0px;/*2px;  Bach Nguyen changed 07/24/2014 */
+    overflow: hidden; /* other value: hidden, visible, scroll, auto, inherit, initial */
+}
+
+div#logo {
+    height: 100px;
+    left: 1px;
+    position: relative;
+    /* top: 15px; */
+	width: 20%; /*260px; */
+	min-width: 240px;
+	float: left;
+	/* margin-right: 10px; */
+	/* background-color:red; */
+}
+
+div#branding {
+	height: 100px;
+	width: 80%; /* 1030px; */
+	min-width: 710px;
+	margin-right: 0px;
+	float: left;
+	padding-right: 0;
+	/* background-color:black; */
+}
+
+div#subbrand-name {
+    color: white;
+    float: left;
+    font-family: times,"times new roman",serif;
+    font-size: 1.25em;
+    height: 0;
+    left: 50px;
+    position: relative;
+    text-align: left;
+    top: 25px;
+	/* background-color:orange; */
+}
+
+div#subbrand-name h1 {
+	font-weight: normal;
+}
+
+div#subbrand-name a:hover {
+	text-decoration: underline;
+}
+
+div#subbrand-name a {
+	color: white;
+    text-decoration: none;
+}
+
+div#subbrand-name a:hover {
+	text-decoration: underline !important;
+}
+
+div#subbrand-name p {
+	line-height: 0.8em;
+	margin: 0 0 1.5em;
+}
+
+div#subbrand-name p a.subbrand-present {
+	font-size: 0.7em;
+	font-style: italic;
+	text-decoration: none;
+}
+
+div#subbrand-name p a:hover {
+	text-decoration: underline !important;
+}
+
+
+div#utility {
+    float: right;
+    height: 100px;
+    /* margin-top: 32px; */
+	line-height: 1.15em;
+	width: 20%; /*200px; */
+	min-width: 100px;
+	margin-right: 0; /* 5px; */
+	/* background-color:orange; */
+}
+
+#utility ul {
+    list-style-type: none;
+    margin-bottom: 5px;
+    margin-right: 0; /* 8px; */
+	/* margin: 0 1.5em 1.5em 0; */
+	padding-left: 1.5em;
+}
+
+#utility ul li {
+    font-family: arial,helvetica,sans-serif;
+    font-size: 0.75em !important;
+    margin-left: -4px;
+    text-align: right;
+    width: 100%; /*164px; */
+}
+
+#utility ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#utility ul li a:hover {
+	text-decoration: underline;
+}
+
+#footer-container {
+	position: relative;
+	background: url("./../images/footer-bg.png") repeat-x scroll left top transparent;
+	width: 80%; /* 950px; */
+	min-width: 0.5em;
+	margin: 0 auto 0 auto !important;
+	height: 110px;
+
+}
+
+#footer-container p {
+	margin: 0 0 1.5em;
+}
+
+#utility-bar {
+	width: 100%; /*950px; */
+	min-width: 950px;
+	height: 32px;
+}
+
+#utility-bar ul {
+    height: 32px;
+    list-style-type: none;
+    padding-left: 1.25em !important;
+	margin-left: 22px !important;
+	margin: 0 1.5em 1.5em 0;
+}
+
+#utility-bar ul li {
+    display: block;
+    float: left;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 0.83em !important;
+    height: 32px;
+    margin-right: 20px;
+}
+
+#utility-bar ul li a {
+    color: white;
+    display: inline-block;
+    height: 32px;
+    line-height: 32px;
+    text-decoration: none;
+}
+
+#utility-bar ul li a:hover {
+	text-decoration: underline;
+}
+
+#footer {
+	float: none !important;
+	margin-right: 0;
+	width: 100%; /* 950px; */
+	min-width: 950px;
+	padding-right: 0;
+}
+
+#footer p, #footer p a {
+    color: #666666;
+    font-family: arial,helvetica,sans-serif;
+    margin-top: -10px;
+}
+
+#footer-name {
+	position: relative;
+	/* width: 500px !important; */
+	width: 75%; /* 500px; */
+	min-width: 500px;
+	padding-left: 40px;
+	/* padding-right: 40px; */
+	float: left;
+	/* margin-right: 10px; */
+	top: 0px;
+}
+
+#footer-follow {
+	/* padding-right: 40px; */
+	width: 20%;/* 190px; */
+	min-width: 190px;
+	float: right;
+	/* margin-right: 10px; */
+}
+
+#footer-follow h2 {
+    color: #666666 !important;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 0.85em;
+    font-weight: bold;
+    line-height: 15px;
+    margin-bottom: 5px;
+    margin-right: 0;
+    margin-top: 12px;
+}
+
+div.social-icons, div.social-icons a {
+    display: inline-block;
+    height: 30px;
+    margin-right: 3px;
+    vertical-align: top;
+    width: 30px;
+}
+
+div.tm-facebook a {
+    background: url("./../images/social-icons.png") no-repeat scroll 0 0 transparent;
+}
+
+div.tm-blog a {
+    background: url("./../images/social-icons.png") no-repeat scroll 0 -30px transparent;
+}
+
+div.tm-twitter a {
+    background: url("./../images/social-icons.png") no-repeat scroll 0 -60px transparent;
+}
+
+div.tm-flickr a {
+    background: url("./../images/social-icons.png") no-repeat scroll 0 -90px transparent;
+}
+
+div.tm-youtube a {
+    background: url("./../images/social-icons.png") no-repeat scroll 0 -120px transparent;
+}
+
+
+div.social-icons, div.social-icons a {
+    display: inline-block;
+    height: 30px;
+    margin-right: 3px;
+    vertical-align: top;
+    width: 30px;
+}
+

@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<?php
+	if (substr($_SERVER['REQUEST_URI'],0,20) == "/photo_access/admin/") {	
+		$dirPath = "./../../photo_access/";
+	} else {
+		$dirPath = "./../photo_access";
+	}
+	//echo substr($_SERVER['REQUEST_URI'],0,20)."<br>";
+	//echo $dirPath;
+	//<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+?>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width-device-width">
+		<title>Welcome to Photo Access ID | Division of Student Affairs | UNC Charlotte</title>
+		<link type="image/x-icon" href="<?php echo $dirPath; ?>/images/favicon.ico" rel="shortcut icon">
+		<link href="<?php echo $dirPath; ?>/css/style.css" rel="stylesheet" type="text/css">
+		<link href="<?php echo $dirPath; ?>/css/reset.css" rel="stylesheet" type="text/css">
+	</head>
+	
+	<body>
+		<div id="page-container">
+			<div id="header-container">
+				<div id="header">
+					<div id="logo"><br>
+						<a href="http://www.uncc.edu" title="www.uncc.edu"><img alt="UNC Charlotte Logo" title="www.uncc.edu" src="<?php echo $dirPath; ?>/images/logo-white.gif"></a>
+					</div>
+					<div id="branding">
+						<div id="subbrand-name">
+							<!-- Used when there is a subbrand -->
+							<h1 style="margin-top: 11px;"><a href="http://studentaffairs.uncc.edu/">Division of Student Affairs</a></h1>
+							<!-- Used when there is no subbrand -->
+							<!--
+								<p style="margin-top: 8px;">
+								<a href="http://library.uncc.edu">
+									<span style="letter-spacing: 0.05em">
+										Site Name
+									</span>
+								</a>
+								</p>
+							-->
+						</div>
+						<div id="utility">
+							<br>
+							<ul>
+								<li>
+									<a class="active" title="Home" href="http://studentaffairs.uncc.edu/">Home</a>
+								</li>
+								<li>
+									<a title="Contact Us" href="http://studentaffairs.uncc.edu/contact">Contact Us</a>
+								</li>
+								<li>
+									<!--
+									<div class="block block-theme">
+										<form action="http://studentaffairs.uncc.edu/"  accept-charset="UTF-8" method="post" id="search-theme-form">
+											<div id="tm-utility-search" class="container-inline">
+												<div class="form-item" id="tm-utility-search-input-wrapper">
+													<input type="text" maxlength="100" name="search_theme_form" id="tm-utility-search-input" size="25" value="Search this site" onfocus="if (this.value == &#039;Search this site&#039;) {this.value = &#039;&#039;;}" class="form-text" />
+												</div>
+												<input type="image" name="op" value="Search" id="edit-submit"  alt="search" title="Search this site" style="*margin-top: 1px; margin-left: 4px; min-height: 19px; display: -moz-inline-box; display: inline-block; *display: inline; *zoom: 1; outline: none; vertical-align: top;" class="form-submit" src="/sites/all/themes/UNCC_Theme-Drupal/uncctheme2a/images/utility-edu-search-mag.png" />
+												<input type="hidden" name="form_build_id" id="form-W63Ld1nCbZRfq44nygkf4OeqGUrR520xDgvI_RmkEH8" value="form-W63Ld1nCbZRfq44nygkf4OeqGUrR520xDgvI_RmkEH8"  />
+												<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+											</div>
+										</form>
+									</div>
+									-->
+								</li>
+							</ul>    			  
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		

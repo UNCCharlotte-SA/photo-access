@@ -1,0 +1,501 @@
+800000000;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000001;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000002;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000003;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000004;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000005;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000006;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000007;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000008;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000009;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000010;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000011;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000012;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000013;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000014;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000015;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000016;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000017;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000018;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000019;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000020;"Ted";"T";"Elling";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000021;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000022;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000023;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000024;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000025;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000026;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000027;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000028;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000029;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000030;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000031;"Ted";"Jamar";"Elling";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000032;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000033;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000034;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000035;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000036;"Red";"Garvey";"Elling";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000037;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000038;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000039;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000040;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000041;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000042;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000043;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000044;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000045;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000046;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000047;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000048;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000049;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000050;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000051;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000052;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000053;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000054;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000055;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000056;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000057;"Ted";"Bridges";"Elling";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000058;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000059;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000060;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000061;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000062;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000063;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000064;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000065;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000066;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000067;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000068;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000069;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000070;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000071;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000072;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000073;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000074;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000075;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000076;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000077;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000078;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000079;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000080;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000081;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000082;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000083;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000084;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000085;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000086;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000087;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000088;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000089;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000090;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000091;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000092;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000093;"Bac";"C";"Nguyen";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000094;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000095;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000096;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000097;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000098;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000099;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000100;"Bach";"Charmai";"Nguyen";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000101;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000102;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000103;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000104;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000105;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000106;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000107;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000108;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000109;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000110;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000111;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000112;"Bach";"Charmaine";"Nguyen";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000113;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000114;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000115;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000116;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000117;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000118;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000119;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000120;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000121;"Bach";"Dario";"Nguyen";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000122;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000123;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000124;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000125;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000126;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000127;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000128;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000129;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000130;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000131;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000132;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000133;"Bach";"Dario";"Nguyen";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000134;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000135;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000136;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000137;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000138;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000139;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000140;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000141;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000142;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000143;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000144;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000145;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000146;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000147;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000148;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000149;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000150;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000151;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000152;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000153;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000154;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000155;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000156;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000157;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000158;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000159;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000160;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000161;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000162;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000163;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000164;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000165;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000166;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000167;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000168;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000169;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000170;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000171;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000172;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000173;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000174;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000175;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000176;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000177;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000178;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000179;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000180;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000181;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000182;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000183;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000184;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000185;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000186;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000187;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000188;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000189;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000190;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000191;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000192;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000193;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000194;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000195;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000196;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000197;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000198;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000199;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000200;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000201;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000202;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000203;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000204;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000205;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000206;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000207;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000208;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000209;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000210;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000211;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000212;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000213;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000214;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000215;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000216;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000217;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000218;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000219;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000220;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000221;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000222;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000223;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000224;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000225;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000226;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000227;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000228;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000229;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000230;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000231;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000232;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000233;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000234;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000235;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000236;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000237;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000238;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000239;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000240;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000241;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000242;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000243;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000244;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000245;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000246;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000247;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000248;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000249;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000250;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000251;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000252;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000253;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000254;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000255;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000256;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000257;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000258;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000259;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000260;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000261;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000262;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000263;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000264;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000265;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000266;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000267;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000268;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000269;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000270;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000271;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000272;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000273;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000274;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000275;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000276;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000277;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000278;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000279;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000280;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000281;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000282;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000283;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000284;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000285;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000286;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000287;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000288;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000289;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000290;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000291;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000292;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000293;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000294;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000295;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000296;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000297;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000298;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000299;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000300;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000301;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000302;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000303;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000304;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000305;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000306;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000307;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000308;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000309;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000310;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000311;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000312;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000313;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000314;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000315;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000316;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000317;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000318;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000319;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000320;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000321;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000322;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000323;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000324;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000325;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000326;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000327;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000328;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000329;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000330;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000331;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000332;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000333;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000334;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000335;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000336;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000337;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000338;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000339;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000340;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000341;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000342;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000343;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000344;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000345;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000346;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000347;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000348;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000349;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000350;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000351;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000352;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000353;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000354;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000355;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000356;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000357;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000358;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000359;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000360;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000361;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000362;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000363;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000364;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000365;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000366;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000367;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000368;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000369;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000370;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000371;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000372;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000373;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000374;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000375;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000376;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000377;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000378;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000379;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000380;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000381;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000382;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000383;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000384;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000385;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000386;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000387;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000388;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000389;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000390;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000391;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000392;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000393;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000394;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000395;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000396;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000397;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000398;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000399;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000400;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000401;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000402;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000403;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000404;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000405;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000406;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000407;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000408;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000409;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000410;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000411;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000412;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000413;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000414;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000415;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000416;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000417;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000418;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000419;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000420;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000421;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000422;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000423;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000424;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000425;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000426;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000427;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000428;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000429;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000430;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000431;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000432;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000433;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000434;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000435;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000436;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000437;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000438;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000439;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000440;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000441;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000442;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000443;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000444;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000445;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000446;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000447;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000448;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000449;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000450;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000451;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000452;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000453;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000454;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000455;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000456;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000457;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000458;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000459;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000460;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000461;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000462;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000463;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000464;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000465;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000466;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000467;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000468;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000469;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000470;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000471;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000472;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000473;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000474;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000475;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000476;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000477;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000478;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000479;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000480;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000481;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000482;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000483;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000484;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000485;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000486;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000487;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000488;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"
+800000489;"Jun-tao";"Bridges";"Wong";M;N;Y;Student;Student;"3/12/2011 23:56:34"
+800000490;"Jenifer";"Senga";"Blanchette";F;Y;Y;Faculty/Staff;Student;"5/19/2010 2:22:20"
+800000491;"Lawrence";"Layton";"Bernard";M;Y;Y;Faculty/Staff;Student;"2/8/2010 13:19:17"
+800000492;"Herminio";"Garvey";"Lennon";F;N;Y;Faculty/Staff;Student;"2/6/2011 21:32:14"
+800000493;"Wayne";"Dario";"Hypki";M;N;Y;Faculty/Staff;Student;"6/16/2012 18:47:15"
+800000494;"Franjo";"Q";"Mann";M;Y;Y;Faculty/Staff;Faculty/Staff;"5/28/2010 7:24:5"
+800000495;"Randal";"Burner";"Breitwise";F;N;Y;Faculty/Staff;Student;"9/27/2012 7:50:18"
+800000496;"Cheryl";"Charmaine";"Storch";M;Y;N;Student;Faculty/Staff;"3/8/2010 21:12:34"
+800000497;"Guelord";"Hamrick";"Gregg";M;Y;N;Faculty/Staff;Faculty/Staff;"11/24/2010 1:17:14"
+800000498;"Samantha-Rae";"Slattery";"Hager";M;Y;N;Faculty/Staff;Student;"11/12/2011 11:40:24"
+800000499;"Nenad";"Jamar";"Hebberd";F;N;N;Faculty/Staff;Faculty/Staff;"8/13/2014 11:14:11"
+800000500;"D.Christopher";"Star";"Butler";M;Y;Y;Faculty/Staff;Faculty/Staff;"12/11/2012 19:53:21"

@@ -1,0 +1,132 @@
+<?php
+//session_start();
+if (isset($_SESSION['photo_access']['login']['username'])) {
+	$username = $_SESSION['photo_access']['login']['username'];
+	$userGroup = $_SESSION['photo_access']['login']['user_group'];
+	$userDisplayName = $_SESSION['photo_access']['login']['first_name']." ".$_SESSION['photo_access']['login']['last_name'];
+	//echo "1. user name: ".$username." - User group: ".$userGroup." - user ID: ".$_SESSION['photo_access']['login']['user_id']."<br>";
+
+	//$DATABASE_NAME = "photo_access";
+	$DATABASE_NAME = $_SESSION['photo_access']['login']['database_name'];
+	//echo $DATABASE_NAME."<br>";
+	$admin_URI = "/".$DATABASE_NAME."/admin/";
+	//echo "admin url: ".$admin_URI."<br>";
+	$admin_URI_Length = strlen($admin_URI);
+	if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) 
+		include("./../install/database_credentials.inc");
+	else
+		include("./install/database_credentials.inc");
+
+	//echo "url admin length: ".$admin_URI_Length."<br>";
+	//echo "url: ".$_SERVER['REQUEST_URI']."<br>";
+	//echo "sub url: ".substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length)."<br>";
+	?>
+	<link href="/../photo_access/css/menu-style.css" rel="stylesheet" type="text/css" media="screen"/>
+	<div style="margin-left:auto; margin-right:auto; width:80%; position:relative;">
+		<ul id="css3menu">
+			<?php
+			//if (isset($username) and isset($userGroup) and $userGroup < 4) {
+				if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) {	
+					echo "<li class=\"topfirst\"><a href=\"./../\" title=\"Photo Access ID\"><span>Home</span></a></li>";
+				} else {
+					echo "<li class=\"topfirst\"><a href=\"./\" title=\"Photo Access ID Admin\"><span>Home</span></a></li>";
+				}
+			//} else {
+			//	echo "<li class=\"topfirst\"><a href=\"./\" title=\"Photo Access ID\"><span>Home</span></a></li>";
+			//}
+		
+			if (isset($username) and isset($userGroup) and $userGroup < 2) {
+				echo "<li><a href=\"#\"><span>File</span></a>\n
+				<ul class=\"submenu\">\n";
+				if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) {	
+					echo "<li class=\"subitem\"><a href=\"./patron_management.php\"><span>Patron Management.</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./generate_sample_file.php\"><span>Generate Sample File.</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./import_file_manual.php\"><span>Import File.</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./search_import_file_log.php\"><span>Import File Log.</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./delete_all_records.php\"><span>Delete Records.</span></a></li>\n";
+				} else {
+					echo "<li class=\"subitem\"><a href=\"./admin/patron_management.php\"><span>Patron Management..</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./admin/generate_sample_file.php\"><span>Generate Sample File..</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./admin/import_file_manual.php\"><span>Import File..</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./admin/search_import_file_log.php\"><span>Import File Log..</span></a></li>\n";
+					echo "<li class=\"subitem\"><a href=\"./admin/delete_all_records.php\"><span>Delete Record..</span></a></li>\n";
+				}
+				echo "</ul>\n
+				</li>\n";
+			} 
+				
+			if (isset($username) and isset($userGroup) and $userGroup < 4) {
+				if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) {	
+					echo "<li><a href=\"./photo_identification.php\" title=\"Photo Identification\"><span>Photo Identification.</span></a></li>";
+					echo "<li><a href=\"./search_log.php\" title=\"Search Log\"><span>Search Log.</span></a></li>";
+				} else {
+					echo "<li><a href=\"./admin/photo_identification.php\" title=\"Photo Identification\"><span>Photo Identification..</span></a></li>";			
+					echo "<li><a href=\"./admin/search_log.php\" title=\"Search Log\"><span>Search Log..</span></a></li>";	
+				}
+			} 
+			?>
+			<?php	
+			if (isset($username) and isset($userGroup) and $userGroup < 3) {
+				echo "<li><a href=\"#\" title=\"Admin Configuration\"><span>Admin Configuration</span></a>\n";
+				echo "<ul class=\"submenu\">\n";
+				if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) {	
+					echo "<li class=\"subitem\"><a href=\"./user_management.php\" title=\"User Management\"><span>User Management.</span></a>\n
+						<ul class=\"submenu\">\n
+							<li class=\"subitem\"><a href=\"./../edit_user.php?action=Submit\" title=\"New User\"><span>Add New User.</span></a></li>\n
+						</ul>\n
+					</li>\n";
+					if ($_SESSION['photo_access']['login']['policy_renew'] == "Y") {
+						echo "<li class=\"subitem\"><a href=\"./policy_management.php\" title=\"Policy Management\"><span>Policy Management..</span></a></li>\n";
+					}
+				} else {
+					echo "<li class=\"subitem\"><a href=\"./admin/user_management.php\" title=\"User Management\"><span>User Management..</span></a>\n
+						<ul class=\"submenu\">\n
+							<li class=\"subitem\"><a href=\"./edit_user.php?action=Submit\" title=\"New User\"><span>Add New User..</span></a></li>\n
+						</ul>\n
+					</li>\n";
+					
+					if ($_SESSION['photo_access']['login']['policy_renew'] == "Y") {
+					echo "<li class=\"subitem\"><a href=\"./admin/policy_management.php\" title=\"Policy Management\"><span>Policy Management</span></a></li>\n";
+					}
+				}
+				if ($userGroup < 2) {
+					if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) {	
+						echo "<li class=\"subitem\"><a href=\"./config_admin.php\" title=\"Configuation\"><span>System Configuation.</span></a>\n";
+						echo "</li>\n";
+					} else {
+						echo "<li class=\"subitem\"><a href=\"./admin/config_admin.php\" title=\"Configuation\"><span>System Configuation..</span></a>\n";
+						echo "</li>\n";					
+					}
+				}
+				echo "</ul>\n";	
+				echo "</li>\n";
+			}
+			?>
+			<?php
+			if (isset($username)) {
+				echo "<li class=\"toplast\"><a href=\"#\"><span>".$userDisplayName."</span></a>\n
+				<ul class=\"submenu\">\n";
+				//if (isset($username) and isset($userGroup) and $userGroup < 6) {
+					if (substr($_SERVER['REQUEST_URI'],0,$admin_URI_Length) == $admin_URI) {				
+						echo "<li class=\"subitem\"><a href=\"./../edit_user.php?action=Update&id=".$_SESSION['photo_access']['login']['user_id']."\"><span>Update Profile.</span></a></li>\n";
+						echo "<li class=\"subitem\"><a href=\"./../web/logout.php\"><span>Logout.</span></a></li>\n";
+					} else {
+						echo "<li class=\"subitem\"><a href=\"./edit_user.php?action=Update&id=".$_SESSION['photo_access']['login']['user_id']."\"><span>Update Profile..</span></a></li>\n";
+						echo "<li class=\"subitem\"><a href=\"./web/logout.php\"><span>Logout..</span></a></li>\n";
+					}
+				//} else {
+				//	echo "<li class=\"subitem\"><a href=\"./edit_user.php?action=Update&id=".$_SESSION['photo_access']['login']['user_id']."\"><span>Update Profile...</span></a></li>\n";
+				//	echo "<li class=\"subitem\"><a href=\"./web/logout.php\"><span>Logout...</span></a></li>\n";			
+				//}
+				echo "</ul>\n
+				</li>\n";
+			} else {
+				$page_link = "index.php";
+				echo "<li class=\"toplast\"><a href=\"./web/login.php?page_link=".$page_link."\"><span>Login</span></a></li>";
+			}
+			?>
+		</ul>
+	</div>
+<?php	
+}
+?>

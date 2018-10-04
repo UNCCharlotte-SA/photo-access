@@ -1,0 +1,44 @@
+Start Transmission
+ID: 10bcd8b7a697650746ec5a578ee5fbbe
+Start Time: Mon, 02 Jun 2014 15:06:25 -0400
+
+Mon, 02 Jun 2014 15:06:25 -0400	[TRY] Attempting to connect ...
+Mon, 02 Jun 2014 15:06:25 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP v60sm21722217yhc.40 - gsmtp
+Mon, 02 Jun 2014 15:06:25 -0400	[OPENED] Connection has been opened
+Mon, 02 Jun 2014 15:06:25 -0400	[TRY] Attempting to login ...
+Mon, 02 Jun 2014 15:06:25 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Mon, 02 Jun 2014 15:06:25 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Mon, 02 Jun 2014 15:06:25 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Mon, 02 Jun 2014 15:06:25 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Mon, 02 Jun 2014 15:06:25 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Mon, 02 Jun 2014 15:06:26 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Mon, 02 Jun 2014 15:06:26 -0400	[SUCCESS] Login accepted
+Mon, 02 Jun 2014 15:06:26 -0400	[TRY] Attempting to send message 10bcd8b7a697650746ec5a578ee5fbbe ...
+Mon, 02 Jun 2014 15:06:26 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK v60sm21722217yhc.40 - gsmtp
+Mon, 02 Jun 2014 15:06:26 -0400	[SET RECIPIENT TO: <ATKINS245@GMAIL.COM>] 250 2.1.5 OK v60sm21722217yhc.40 - gsmtp
+Mon, 02 Jun 2014 15:06:26 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Mon, 02 Jun 2014 15:06:26 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Mon, 02 Jun 2014 15:06:26 -0400	[DATA - CHECK] 354  Go ahead v60sm21722217yhc.40 - gsmtp
+Mon, 02 Jun 2014 15:06:27 -0400	[DATA - SEND] 250 2.0.0 OK 1401735987 v60sm21722217yhc.40 - gsmtp
+Mon, 02 Jun 2014 15:06:27 -0400	[MAIL STAT] Success: Message 10bcd8b7a697650746ec5a578ee5fbbe has been sent
+Mon, 02 Jun 2014 15:06:27 -0400	[QUIT] 221 2.0.0 closing connection v60sm21722217yhc.40 - gsmtp
+Mon, 02 Jun 2014 15:06:27 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 10bcd8b7a697650746ec5a578ee5fbbe
+Finish Time: Mon, 02 Jun 2014 15:06:27 -0400
+
+--------------------------------------------------
+

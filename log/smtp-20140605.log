@@ -1,0 +1,85 @@
+Start Transmission
+ID: 11220a9c96ba8a1af706332beb2d24d8
+Start Time: Thu, 05 Jun 2014 14:44:18 -0400
+
+Thu, 05 Jun 2014 14:44:18 -0400	[TRY] Attempting to connect ...
+Thu, 05 Jun 2014 14:44:18 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP j46sm9989540yhc.14 - gsmtp
+Thu, 05 Jun 2014 14:44:18 -0400	[OPENED] Connection has been opened
+Thu, 05 Jun 2014 14:44:18 -0400	[TRY] Attempting to login ...
+Thu, 05 Jun 2014 14:44:18 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Thu, 05 Jun 2014 14:44:18 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Thu, 05 Jun 2014 14:44:18 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Thu, 05 Jun 2014 14:44:18 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Thu, 05 Jun 2014 14:44:18 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Thu, 05 Jun 2014 14:44:18 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Thu, 05 Jun 2014 14:44:18 -0400	[SUCCESS] Login accepted
+Thu, 05 Jun 2014 14:44:18 -0400	[TRY] Attempting to send message 11220a9c96ba8a1af706332beb2d24d8 ...
+Thu, 05 Jun 2014 14:44:18 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK j46sm9989540yhc.14 - gsmtp
+Thu, 05 Jun 2014 14:44:18 -0400	[SET RECIPIENT TO: <BNGUYE21@UNCC.EDU>] 250 2.1.5 OK j46sm9989540yhc.14 - gsmtp
+Thu, 05 Jun 2014 14:44:18 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Thu, 05 Jun 2014 14:44:18 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Thu, 05 Jun 2014 14:44:19 -0400	[DATA - CHECK] 354  Go ahead j46sm9989540yhc.14 - gsmtp
+Thu, 05 Jun 2014 14:44:19 -0400	[DATA - SEND] 250 2.0.0 OK 1401993859 j46sm9989540yhc.14 - gsmtp
+Thu, 05 Jun 2014 14:44:19 -0400	[MAIL STAT] Success: Message 11220a9c96ba8a1af706332beb2d24d8 has been sent
+Thu, 05 Jun 2014 14:44:19 -0400	[QUIT] 221 2.0.0 closing connection j46sm9989540yhc.14 - gsmtp
+Thu, 05 Jun 2014 14:44:19 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 11220a9c96ba8a1af706332beb2d24d8
+Finish Time: Thu, 05 Jun 2014 14:44:19 -0400
+
+--------------------------------------------------
+
+Start Transmission
+ID: e8a5ddebefd9940c90a7e4168fb05e3f
+Start Time: Thu, 05 Jun 2014 15:01:04 -0400
+
+Thu, 05 Jun 2014 15:01:04 -0400	[TRY] Attempting to connect ...
+Thu, 05 Jun 2014 15:01:04 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP k65sm10034902yhl.43 - gsmtp
+Thu, 05 Jun 2014 15:01:05 -0400	[OPENED] Connection has been opened
+Thu, 05 Jun 2014 15:01:05 -0400	[TRY] Attempting to login ...
+Thu, 05 Jun 2014 15:01:05 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Thu, 05 Jun 2014 15:01:05 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Thu, 05 Jun 2014 15:01:05 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Thu, 05 Jun 2014 15:01:05 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Thu, 05 Jun 2014 15:01:05 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Thu, 05 Jun 2014 15:01:05 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Thu, 05 Jun 2014 15:01:05 -0400	[SUCCESS] Login accepted
+Thu, 05 Jun 2014 15:01:05 -0400	[TRY] Attempting to send message e8a5ddebefd9940c90a7e4168fb05e3f ...
+Thu, 05 Jun 2014 15:01:05 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK k65sm10034902yhl.43 - gsmtp
+Thu, 05 Jun 2014 15:01:05 -0400	[FAILED] Recipient is not accepted
+Thu, 05 Jun 2014 15:01:05 -0400	[MAIL STAT] Failed: Message e8a5ddebefd9940c90a7e4168fb05e3f is not sent
+Thu, 05 Jun 2014 15:01:05 -0400	[RESET] 250 2.1.5 Flushed k65sm10034902yhl.43 - gsmtp
+Thu, 05 Jun 2014 15:01:05 -0400	[QUIT] 221 2.0.0 closing connection k65sm10034902yhl.43 - gsmtp
+Thu, 05 Jun 2014 15:01:05 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: e8a5ddebefd9940c90a7e4168fb05e3f
+Finish Time: Thu, 05 Jun 2014 15:01:05 -0400
+
+--------------------------------------------------
+

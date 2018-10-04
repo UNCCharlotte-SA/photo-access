@@ -1,0 +1,262 @@
+Start Transmission
+ID: 8336066cb3cc3bbd439481509b755dcc
+Start Time: Fri, 06 Jun 2014 10:58:22 -0400
+
+Fri, 06 Jun 2014 10:58:22 -0400	[TRY] Attempting to connect ...
+Fri, 06 Jun 2014 10:58:22 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP dj1sm5115833vdc.3 - gsmtp
+Fri, 06 Jun 2014 10:58:22 -0400	[OPENED] Connection has been opened
+Fri, 06 Jun 2014 10:58:22 -0400	[TRY] Attempting to login ...
+Fri, 06 Jun 2014 10:58:22 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 10:58:22 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 06 Jun 2014 10:58:22 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 10:58:22 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 06 Jun 2014 10:58:22 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 06 Jun 2014 10:58:22 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 06 Jun 2014 10:58:22 -0400	[SUCCESS] Login accepted
+Fri, 06 Jun 2014 10:58:22 -0400	[TRY] Attempting to send message 8336066cb3cc3bbd439481509b755dcc ...
+Fri, 06 Jun 2014 10:58:22 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK dj1sm5115833vdc.3 - gsmtp
+Fri, 06 Jun 2014 10:58:23 -0400	[SET RECIPIENT TO: <ATKINS245@GMAIL.COM>] 250 2.1.5 OK dj1sm5115833vdc.3 - gsmtp
+Fri, 06 Jun 2014 10:58:23 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 06 Jun 2014 10:58:23 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 06 Jun 2014 10:58:23 -0400	[DATA - CHECK] 354  Go ahead dj1sm5115833vdc.3 - gsmtp
+Fri, 06 Jun 2014 10:58:24 -0400	[DATA - SEND] 250 2.0.0 OK 1402066704 dj1sm5115833vdc.3 - gsmtp
+Fri, 06 Jun 2014 10:58:24 -0400	[MAIL STAT] Success: Message 8336066cb3cc3bbd439481509b755dcc has been sent
+Fri, 06 Jun 2014 10:58:24 -0400	[QUIT] 221 2.0.0 closing connection dj1sm5115833vdc.3 - gsmtp
+Fri, 06 Jun 2014 10:58:24 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 8336066cb3cc3bbd439481509b755dcc
+Finish Time: Fri, 06 Jun 2014 10:58:24 -0400
+
+--------------------------------------------------
+
+Start Transmission
+ID: 1ad22c415e8b2bc0992853eead77b12f
+Start Time: Fri, 06 Jun 2014 10:59:06 -0400
+
+Fri, 06 Jun 2014 10:59:06 -0400	[TRY] Attempting to connect ...
+Fri, 06 Jun 2014 10:59:06 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP q5sm16895745vdc.12 - gsmtp
+Fri, 06 Jun 2014 10:59:06 -0400	[OPENED] Connection has been opened
+Fri, 06 Jun 2014 10:59:06 -0400	[TRY] Attempting to login ...
+Fri, 06 Jun 2014 10:59:06 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 10:59:06 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 06 Jun 2014 10:59:06 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 10:59:06 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 06 Jun 2014 10:59:06 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 06 Jun 2014 10:59:07 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 06 Jun 2014 10:59:07 -0400	[SUCCESS] Login accepted
+Fri, 06 Jun 2014 10:59:07 -0400	[TRY] Attempting to send message 1ad22c415e8b2bc0992853eead77b12f ...
+Fri, 06 Jun 2014 10:59:07 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK q5sm16895745vdc.12 - gsmtp
+Fri, 06 Jun 2014 10:59:07 -0400	[SET RECIPIENT TO: <ATKINS245@GMAIL.COM>] 250 2.1.5 OK q5sm16895745vdc.12 - gsmtp
+Fri, 06 Jun 2014 10:59:07 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 06 Jun 2014 10:59:07 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 06 Jun 2014 10:59:07 -0400	[DATA - CHECK] 354  Go ahead q5sm16895745vdc.12 - gsmtp
+Fri, 06 Jun 2014 10:59:07 -0400	[DATA - SEND] 250 2.0.0 OK 1402066747 q5sm16895745vdc.12 - gsmtp
+Fri, 06 Jun 2014 10:59:07 -0400	[MAIL STAT] Success: Message 1ad22c415e8b2bc0992853eead77b12f has been sent
+Fri, 06 Jun 2014 10:59:07 -0400	[QUIT] 221 2.0.0 closing connection q5sm16895745vdc.12 - gsmtp
+Fri, 06 Jun 2014 10:59:07 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 1ad22c415e8b2bc0992853eead77b12f
+Finish Time: Fri, 06 Jun 2014 10:59:07 -0400
+
+--------------------------------------------------
+
+Start Transmission
+ID: 87b5fdc69fa43a0ab8a3c95694ce3616
+Start Time: Fri, 06 Jun 2014 11:28:55 -0400
+
+Fri, 06 Jun 2014 11:28:55 -0400	[TRY] Attempting to connect ...
+Fri, 06 Jun 2014 11:28:55 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP ij2sm17095738vdb.2 - gsmtp
+Fri, 06 Jun 2014 11:28:55 -0400	[OPENED] Connection has been opened
+Fri, 06 Jun 2014 11:28:55 -0400	[TRY] Attempting to login ...
+Fri, 06 Jun 2014 11:28:55 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 11:28:55 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 06 Jun 2014 11:28:55 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 11:28:55 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 06 Jun 2014 11:28:55 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 06 Jun 2014 11:28:55 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 06 Jun 2014 11:28:55 -0400	[SUCCESS] Login accepted
+Fri, 06 Jun 2014 11:28:55 -0400	[TRY] Attempting to send message 87b5fdc69fa43a0ab8a3c95694ce3616 ...
+Fri, 06 Jun 2014 11:28:56 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK ij2sm17095738vdb.2 - gsmtp
+Fri, 06 Jun 2014 11:28:56 -0400	[SET RECIPIENT TO: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.5 OK ij2sm17095738vdb.2 - gsmtp
+Fri, 06 Jun 2014 11:28:56 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 06 Jun 2014 11:28:56 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 06 Jun 2014 11:28:56 -0400	[DATA - CHECK] 354  Go ahead ij2sm17095738vdb.2 - gsmtp
+Fri, 06 Jun 2014 11:28:56 -0400	[DATA - SEND] 250 2.0.0 OK 1402068536 ij2sm17095738vdb.2 - gsmtp
+Fri, 06 Jun 2014 11:28:56 -0400	[MAIL STAT] Success: Message 87b5fdc69fa43a0ab8a3c95694ce3616 has been sent
+Fri, 06 Jun 2014 11:28:56 -0400	[QUIT] 221 2.0.0 closing connection ij2sm17095738vdb.2 - gsmtp
+Fri, 06 Jun 2014 11:28:56 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 87b5fdc69fa43a0ab8a3c95694ce3616
+Finish Time: Fri, 06 Jun 2014 11:28:56 -0400
+
+--------------------------------------------------
+
+Start Transmission
+ID: 3b9667f2b3c4cae1ab2af14e9305879b
+Start Time: Fri, 06 Jun 2014 11:30:19 -0400
+
+Fri, 06 Jun 2014 11:30:19 -0400	[TRY] Attempting to connect ...
+Fri, 06 Jun 2014 11:30:19 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP rl15sm17061591vdb.25 - gsmtp
+Fri, 06 Jun 2014 11:30:19 -0400	[OPENED] Connection has been opened
+Fri, 06 Jun 2014 11:30:19 -0400	[TRY] Attempting to login ...
+Fri, 06 Jun 2014 11:30:19 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 11:30:19 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 06 Jun 2014 11:30:19 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 11:30:19 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 06 Jun 2014 11:30:19 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 06 Jun 2014 11:30:20 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 06 Jun 2014 11:30:20 -0400	[SUCCESS] Login accepted
+Fri, 06 Jun 2014 11:30:20 -0400	[TRY] Attempting to send message 3b9667f2b3c4cae1ab2af14e9305879b ...
+Fri, 06 Jun 2014 11:30:20 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK rl15sm17061591vdb.25 - gsmtp
+Fri, 06 Jun 2014 11:30:20 -0400	[SET RECIPIENT TO: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.5 OK rl15sm17061591vdb.25 - gsmtp
+Fri, 06 Jun 2014 11:30:20 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 06 Jun 2014 11:30:20 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 06 Jun 2014 11:30:20 -0400	[DATA - CHECK] 354  Go ahead rl15sm17061591vdb.25 - gsmtp
+Fri, 06 Jun 2014 11:30:21 -0400	[DATA - SEND] 250 2.0.0 OK 1402068621 rl15sm17061591vdb.25 - gsmtp
+Fri, 06 Jun 2014 11:30:21 -0400	[MAIL STAT] Success: Message 3b9667f2b3c4cae1ab2af14e9305879b has been sent
+Fri, 06 Jun 2014 11:30:21 -0400	[QUIT] 221 2.0.0 closing connection rl15sm17061591vdb.25 - gsmtp
+Fri, 06 Jun 2014 11:30:21 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 3b9667f2b3c4cae1ab2af14e9305879b
+Finish Time: Fri, 06 Jun 2014 11:30:21 -0400
+
+--------------------------------------------------
+
+Start Transmission
+ID: d9529ca92fe65764e39e91fc7553c185
+Start Time: Fri, 06 Jun 2014 13:19:02 -0400
+
+Fri, 06 Jun 2014 13:19:02 -0400	[TRY] Attempting to connect ...
+Fri, 06 Jun 2014 13:19:02 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP 5sm17774189vdg.8 - gsmtp
+Fri, 06 Jun 2014 13:19:02 -0400	[OPENED] Connection has been opened
+Fri, 06 Jun 2014 13:19:02 -0400	[TRY] Attempting to login ...
+Fri, 06 Jun 2014 13:19:02 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 13:19:02 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 06 Jun 2014 13:19:02 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250 CHUNKING
+Fri, 06 Jun 2014 13:19:02 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 06 Jun 2014 13:19:02 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 06 Jun 2014 13:19:02 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 06 Jun 2014 13:19:02 -0400	[SUCCESS] Login accepted
+Fri, 06 Jun 2014 13:19:02 -0400	[TRY] Attempting to send message d9529ca92fe65764e39e91fc7553c185 ...
+Fri, 06 Jun 2014 13:19:02 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK 5sm17774189vdg.8 - gsmtp
+Fri, 06 Jun 2014 13:19:02 -0400	[SET RECIPIENT TO: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.5 OK 5sm17774189vdg.8 - gsmtp
+Fri, 06 Jun 2014 13:19:02 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 06 Jun 2014 13:19:02 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 06 Jun 2014 13:19:03 -0400	[DATA - CHECK] 354  Go ahead 5sm17774189vdg.8 - gsmtp
+Fri, 06 Jun 2014 13:19:03 -0400	[DATA - SEND] 250 2.0.0 OK 1402075143 5sm17774189vdg.8 - gsmtp
+Fri, 06 Jun 2014 13:19:03 -0400	[MAIL STAT] Success: Message d9529ca92fe65764e39e91fc7553c185 has been sent
+Fri, 06 Jun 2014 13:19:03 -0400	[QUIT] 221 2.0.0 closing connection 5sm17774189vdg.8 - gsmtp
+Fri, 06 Jun 2014 13:19:03 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: d9529ca92fe65764e39e91fc7553c185
+Finish Time: Fri, 06 Jun 2014 13:19:03 -0400
+
+--------------------------------------------------
+
+Start Transmission
+ID: af5280096764c293bd9c8794f81d657e
+Start Time: Fri, 06 Jun 2014 13:22:15 -0400
+
+Fri, 06 Jun 2014 13:22:15 -0400	[TRY] Attempting to connect ...
+Fri, 06 Jun 2014 13:22:15 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP m8sm11360763veh.14 - gsmtp
+Fri, 06 Jun 2014 13:22:15 -0400	[OPENED] Connection has been opened
+Fri, 06 Jun 2014 13:22:15 -0400	[TRY] Attempting to login ...
+Fri, 06 Jun 2014 13:22:15 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250 CHUNKING
+Fri, 06 Jun 2014 13:22:15 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 06 Jun 2014 13:22:15 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.112.9]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250 CHUNKING
+Fri, 06 Jun 2014 13:22:15 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 06 Jun 2014 13:22:15 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 06 Jun 2014 13:22:16 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 06 Jun 2014 13:22:16 -0400	[SUCCESS] Login accepted
+Fri, 06 Jun 2014 13:22:16 -0400	[TRY] Attempting to send message af5280096764c293bd9c8794f81d657e ...
+Fri, 06 Jun 2014 13:22:16 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK m8sm11360763veh.14 - gsmtp
+Fri, 06 Jun 2014 13:22:16 -0400	[SET RECIPIENT TO: <TESTER1@UNCC.EDU>] 250 2.1.5 OK m8sm11360763veh.14 - gsmtp
+Fri, 06 Jun 2014 13:22:16 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 06 Jun 2014 13:22:16 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 06 Jun 2014 13:22:16 -0400	[DATA - CHECK] 354  Go ahead m8sm11360763veh.14 - gsmtp
+Fri, 06 Jun 2014 13:22:16 -0400	[DATA - SEND] 250 2.0.0 OK 1402075336 m8sm11360763veh.14 - gsmtp
+Fri, 06 Jun 2014 13:22:16 -0400	[MAIL STAT] Success: Message af5280096764c293bd9c8794f81d657e has been sent
+Fri, 06 Jun 2014 13:22:16 -0400	[QUIT] 221 2.0.0 closing connection m8sm11360763veh.14 - gsmtp
+Fri, 06 Jun 2014 13:22:16 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: af5280096764c293bd9c8794f81d657e
+Finish Time: Fri, 06 Jun 2014 13:22:16 -0400
+
+--------------------------------------------------
+

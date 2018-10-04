@@ -1,0 +1,5 @@
+patron_number;first_name;middle_name;last_name;gender;active;ferpa_flag;hr_classification;primary_classification;last_mod_datetime;pic_location;default_pic;pic_image
+800000000;Luz;Carter;Vickers;M;Y;Y;Student;Faculty/Staff;"2011-05-12 18:21:38";./download/sample/men/800000242.png;Y;
+800000001;Keh-hsun;Judson;Fried;F;Y;Y;Faculty/Staff;Faculty/Staff;"2013-11-22 13:47:20";./download/sample/women/800000393.png;Y;
+800000001;Keh-hsun;Judson;Fried;F;Y;Y;Faculty/Staff;Faculty/Staff;"2013-11-22 13:47:20";./download/sample/women/800000298.png;N;
+800000001;Keh-hsun;Judson;Fried;F;Y;Y;Faculty/Staff;Faculty/Staff;"2013-11-22 13:47:20";./download/sample/women/800000207.png;N;

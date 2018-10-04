@@ -1,0 +1,45 @@
+Start Transmission
+ID: 3cc91ae778c15c8287d266afce072040
+Start Time: Fri, 22 Aug 2014 17:20:15 -0400
+
+Fri, 22 Aug 2014 17:20:15 -0400	[TRY] Attempting to connect ...
+Fri, 22 Aug 2014 17:20:15 -0400	[FSOCKOPEN] 220 mx.google.com ESMTP j64sm4027563yhb.7 - gsmtp
+Fri, 22 Aug 2014 17:20:15 -0400	[OPENED] Connection has been opened
+Fri, 22 Aug 2014 17:20:15 -0400	[TRY] Attempting to login ...
+Fri, 22 Aug 2014 17:20:15 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.132.155]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-CHUNKING
+250 SMTPUTF8
+Fri, 22 Aug 2014 17:20:15 -0400	[STARTTLS] 220 2.0.0 Ready to start TLS
+Fri, 22 Aug 2014 17:20:15 -0400	[SEND HELLO MESSAGE] 250-mx.google.com at your service, [152.15.132.155]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH XOAUTH2 PLAIN-CLIENTTOKEN
+250-ENHANCEDSTATUSCODES
+250-CHUNKING
+250 SMTPUTF8
+Fri, 22 Aug 2014 17:20:15 -0400	[AUTH LOGIN] 334 VXNlcm5hbWU6
+Fri, 22 Aug 2014 17:20:15 -0400	[AUTH USERNAME] 334 UGFzc3dvcmQ6
+Fri, 22 Aug 2014 17:20:15 -0400	[AUTH PASSWORD] 235 2.7.0 Accepted
+Fri, 22 Aug 2014 17:20:15 -0400	[SUCCESS] Login accepted
+Fri, 22 Aug 2014 17:20:15 -0400	[TRY] Attempting to send message 3cc91ae778c15c8287d266afce072040 ...
+Fri, 22 Aug 2014 17:20:16 -0400	[SET MAIL FROM: <SUPPORT.LIBRARY@UNCC.EDU>] 250 2.1.0 OK j64sm4027563yhb.7 - gsmtp
+Fri, 22 Aug 2014 17:20:16 -0400	[SET RECIPIENT TO: <ATKINS245@GMAIL.COM>] 250 2.1.5 OK j64sm4027563yhb.7 - gsmtp
+Fri, 22 Aug 2014 17:20:16 -0400	[DATA - GENERATE] Attempting to generate mail data ...
+Fri, 22 Aug 2014 17:20:16 -0400	[DATA - GENERATE] Success: Mail data has been generated
+Fri, 22 Aug 2014 17:20:17 -0400	[DATA - CHECK] 354  Go ahead j64sm4027563yhb.7 - gsmtp
+Fri, 22 Aug 2014 17:20:18 -0400	[DATA - SEND] 250 2.0.0 OK 1408742418 j64sm4027563yhb.7 - gsmtp
+Fri, 22 Aug 2014 17:20:18 -0400	[MAIL STAT] Success: Message 3cc91ae778c15c8287d266afce072040 has been sent
+Fri, 22 Aug 2014 17:20:18 -0400	[QUIT] 221 2.0.0 closing connection j64sm4027563yhb.7 - gsmtp
+Fri, 22 Aug 2014 17:20:18 -0400	[CLOSED] Connection has been closed
+
+End Transmission
+ID: 3cc91ae778c15c8287d266afce072040
+Finish Time: Fri, 22 Aug 2014 17:20:18 -0400
+
+--------------------------------------------------
+
